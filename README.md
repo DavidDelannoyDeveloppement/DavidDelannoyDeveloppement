@@ -2,7 +2,7 @@
 My name is David and I'm learning to become a developer!
 
 - 🔭 I am currently working on Python and HTML/CSS projects
-- 🌱 I am currently learning Django.
+- 🌱 I am currently learning Flask.
 - 👯 I'm looking to discuss the profession of developer in general (freelancing, missions, professional tools, terms of quotes and payments, status of a company...)
 - 💬 Ask me about my background if you wish, I will answer you with great pleasure!
 - 📫 How to reach me: well here, or on my website [{ D D D }](https://daviddelannoydeveloppement.github.io/DDD/index.html) or on my [linkedin](https://www.linkedin .com/in/david-delannoy-developpement/) or by email: daviddelannoydeveloppement@gmail.com
